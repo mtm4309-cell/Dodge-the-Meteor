@@ -1,6 +1,6 @@
-DODGE THE METOR  [February 2024 - April 2024]
+## DODGE THE METOR  [February 2024 - April 2024] ##
 
-An arcade-style 2D game built using the Pygame Module in Python. This project served as a stepping stone to immerse myself in the world of Game Development, where I learned basic event handling, game loops, and basic hitbox collisions.
+An arcade-style 2D game built using the Pygame Module in Python. This project served as a stepping stone to immerse myself in the world of Game Development, where I learned about event handling, game loops, and basic collision detection.
 
 
 ## Technical Functions ##
